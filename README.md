@@ -12,7 +12,7 @@ $ pip install assault
 
 ## Usage
 
-The simplest usage of `assault` requires only a URL to test against and 500 requests synchronously (one at a time). This is what it would look like:
+The simplest usage of `assault` requires only a URL to test against and 500 requests synchronously (one at a time). T his is what it would look like:
 
 ```
 $ assault https://example.com
